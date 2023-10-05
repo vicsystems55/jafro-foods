@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ImmigrationServiceController;
+use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,6 +15,34 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+Route::get('/', [PageController::class, 'index']);
+
+Route::get('/about-us', [PageController::class, 'about_us']);
+
+Route::get('/contact-us', [PageController::class, 'contact_us']);
+
+Route::get('/our-products', [PageController::class, 'our_produts']);
+
+
+
+Route::get('/immigration-services', [ImmigrationServiceController::class,'page']);
+
+Route::post('/store-immigration-services', [ImmigrationServiceController::class,'store']);
+
+Route::post('/update-immigration-services', [ImmigrationServiceController::class,'update']);
+
+Route::post('/activate', [ImmigrationServiceController::class,'activate']);
+
+Route::post('/update-description', [ImmigrationServiceController::class,'updatedescription']);
+
+
+
+
+
+
+
+
