@@ -19,7 +19,7 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::get('/', [PageController::class, 'index']);
+Route::get('/f', [PageController::class, 'index']);
 
 Route::get('/about-us', [PageController::class, 'about_us']);
 
