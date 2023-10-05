@@ -93,7 +93,7 @@
                             <div class="nav-menu">
                                 <!--=== Mobile Logo ===-->
                                 <div class="mobile-logo mb-30 d-block d-xl-none text-center">
-                                    <a href="/" class="brand-logo"><img src="assets/images/logo/logo-black.png" alt="Site Logo"></a>
+                                    <a href="/" class="brand-logo"><img src="assets/images/logo/logo-blac.png" alt="Site Logo"></a>
                                 </div>
                                 <!--=== Main Menu ===-->
                                 <nav class="main-menu">
