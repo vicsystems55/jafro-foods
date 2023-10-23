@@ -9,6 +9,13 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+        <meta property="og:image" content="https://jafrofoodsltd.co.uk/images/resource/about-44.jpg">
+        <meta property="og:image" content="https://jafrofoodsltd.co.uk/images/resource/about-44.jpg">
+        <meta property="og:image" content="https://jafrofoodsltd.co.uk/images/resource/about-44.jpg">
+        <meta property="og:image" content="https://jafrofoodsltd.co.uk/images/resource/about-44.jpg">
+        <meta property="og:image:url" content="https://jafrofoodsltd.co.uk/images/resource/about-44.jpg">
+        <meta property="og:image:size" content="300">
+
         {!! SEO::generate() !!}
         <!--====== Title ======-->
         <title>Jafro Foods Limited</title>
