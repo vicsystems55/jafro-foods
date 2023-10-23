@@ -182,8 +182,8 @@
                         <div class="hover-content">
                             <div class="text">
                                 <h3 class="title"><a href="/our-products">Chin Chin  Original</a></h3>
-                                <span class="price"><span class="currency">$</span>253.59</span>
-                                <div class="menu-meta">
+                                <span class="price"><span class="currency"> £</span>25.59</span>
+                                <div class="menu-meta d-none">
                                     <a href="#" class="icon-btn"><i class="far fa-shopping-cart"></i></a>
                                     <a href="#" class="icon-btn"><i class="far fa-heart"></i></a>
                                     <a href="#" class="icon-btn"><i class="fas fa-sliders-h"></i></a>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="/our-products">Chin Chin  Original</a></h3>
-                            <span class="price"><span class="currency">$</span>253.59</span>
+                            <span class="price"><span class="currency"> £</span>53.59</span>
                         </div>
                     </div>
                     <div class="menu-grid-item-two text-center mb-60">
@@ -204,8 +204,8 @@
                         <div class="hover-content">
                             <div class="text">
                                 <h3 class="title"><a href="/our-products"> Peanut Chin Chin </a></h3>
-                                <span class="price"><span class="currency">$</span>194.83</span>
-                                <div class="menu-meta">
+                                <span class="price"><span class="currency"> £</span>24.83</span>
+                                <div class="menu-meta d-none">
                                     <a href="#" class="icon-btn"><i class="far fa-shopping-cart"></i></a>
                                     <a href="#" class="icon-btn"><i class="far fa-heart"></i></a>
                                     <a href="#" class="icon-btn"><i class="fas fa-sliders-h"></i></a>
@@ -218,7 +218,7 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="/our-products"> Peanut Chin Chin</a></h3>
-                            <span class="price"><span class="currency">$</span>194.83</span>
+                            <span class="price"><span class="currency"> £</span>24.83</span>
                         </div>
                     </div>
 
@@ -228,8 +228,8 @@
                         <div class="hover-content">
                             <div class="text">Jafro Foods
                                 <h3 class="title"><a href="/our-products">Coconut Chin Chin</a></h3>
-                                <span class="price"><span class="currency">$</span>194.83</span>
-                                <div class="menu-meta">
+                                <span class="price"><span class="currency"> £</span>24.83</span>
+                                <div class="menu-meta d-none">
                                     <a href="#" class="icon-btn"><i class="far fa-shopping-cart"></i></a>
                                     <a href="#" class="icon-btn"><i class="far fa-heart"></i></a>
                                     <a href="#" class="icon-btn"><i class="fas fa-sliders-h"></i></a>
@@ -242,7 +242,7 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="/our-products">Coconut Chin Chin</a></h3>
-                            <span class="price"><span class="currency">$</span>194.83</span>
+                            <span class="price"><span class="currency"> £</span>24.83</span>
                         </div>
                     </div>
                 </div>
@@ -428,9 +428,7 @@
                                 </div>
                             </div>
                             <h3>“Yamee Foods”</h3>
-                            <p>Sed ut perspiciatis unde omiste natus error sit volupt accusantium
-                                doloremque laudantium totam rem aperiam, eaque ipsa quae ab
-                                inventore veritatis et quase </p>
+                            <p>Their African chin chin is an exquisite blend of tradition and taste. I'm captivated by the unique flavors, aperiam, eaque ipsa quae ab inventore veritatis et quase. </p>
                             <div class="author-title-thumb">
                                 <div class="author-thumb">
                                     <img src="assets/images/testimonial/author-thumb-2.jpg" alt="Author Thumb">
@@ -459,9 +457,7 @@
                                 </div>
                             </div>
                             <h3>“Mind blowing”</h3>
-                            <p>Sed ut perspiciatis unde omiste natus error sit volupt accusantium
-                                doloremque laudantium totam rem aperiam, eaque ipsa quae ab
-                                inventore veritatis et quase </p>
+                            <p>Jafro Foods is a taste of Africa in every bite. Their African chin chin is a delight, combining tradition and flavor flawlessly. I can't get enough! Highly recommend this exceptional snack. </p>
                             <div class="author-title-thumb">
                                 <div class="author-thumb">
                                     <img src="assets/images/testimonial/author-thumb-3.jpg" alt="Author Thumb">
@@ -490,9 +486,7 @@
                                 </div>
                             </div>
                             <h3>“Delicious”</h3>
-                            <p>Sed ut perspiciatis unde omiste natus error sit volupt accusantium
-                                doloremque laudantium totam rem aperiam, eaque ipsa quae ab
-                                inventore veritatis et quase </p>
+                            <p>Jafro Foods' African chin chin is a culinary masterpiece. Seductive flavors, perfected by skilled artisans. It's an irresistible journey of taste. Aperiam the authentic essence of Africa with every bite. Highly recommended! </p>
                             <div class="author-title-thumb">
                                 <div class="author-thumb">
                                     <img src="assets/images/testimonial/author-thumb-4.jpg" alt="Author Thumb">
@@ -521,9 +515,7 @@
                                 </div>
                             </div>
                             <h3>“Mind blowing”</h3>
-                            <p>Sed ut perspiciatis unde omiste natus error sit volupt accusantium
-                                doloremque laudantium totam rem aperiam, eaque ipsa quae ab
-                                inventore veritatis et quase </p>
+                            <p>Jafro Foods has redefined my snacking experience with their authentic African chin chin. Each bite is a flavorful journey. Their commitment to quality is truly remarkable. I'm a loyal fan! </p>
                             <div class="author-title-thumb">
                                 <div class="author-thumb">
                                     <img src="assets/images/testimonial/author-thumb-2.jpg" alt="Author Thumb">
@@ -537,7 +529,8 @@
                     </div>
                 </div>
             </div>
-        </section><!--=== End Testimonial Section ===-->
+        </section>
+        <!--=== End Testimonial Section ===-->
         <!--=== Start Event Section ===-->
         {{-- <section class="event-section pt-70 pb-70">
             <div class="container">
@@ -564,7 +557,7 @@
         </section> --}}
         <!--=== End Event Section ===-->
         <!--====== Start Partners Section ======-->
-        <section class="partners-section light-red-bg pt-60 pb-60">
+        <section class="partners-section light-red-bg pt-60 pb-60 d-none">
             <div class="container">
                 <!--=== Partners Slider ===-->
                 <div class="partner-slider-one wow fadeInDown">

@@ -11,7 +11,10 @@
         <!--====== Title ======-->
         <title>Jafro Foods Limited</title>
         <!--====== Favicon Icon ======-->
-        <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
         <!--====== Flaticon css ======-->
         <link rel="stylesheet" href="assets/fonts/flaticon/flaticon.css">
         <!--====== FontAwesome css ======-->
@@ -61,7 +64,7 @@
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="top-left">
-                                <span class="text">Free delivery for all orders over $50. Order now!</span>
+                                <span class="text"></span>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -86,7 +89,7 @@
                     <div class="primary-menu">
                         <!--=== Site Branding ===-->
                         <div class="site-branding">
-                            <a href="/" class="brand-logo"><img src="assets/images/logo/logo-blac.png" alt="Site Logo"></a>
+                            <a href="/" class="brand-logo"><img style="height: 80px; max-width: 200px;" src="assets/images/logo/logo-blac.png" alt="Site Logo"></a>
                         </div>
                         <!--=== Nav Inner Menu ===-->
                         <div class="nav-inner-menu">
@@ -146,8 +149,8 @@
                         <div class="col-lg-3 col-md-6">
                             <div class="footer-widget about-company-widget pr-lg-30 mb-40 wow fadeInUp">
                                 <div class="footer-content">
-                                    <a href="/" class="footer-logo mb-30"><img src="assets/images/logo/logo-whit.png" alt="Brand Logo"></a>
-                                    <p>Sit amet consectetur adipiscing elitsue risus mauris adipis</p>
+                                    <a href="/" class="footer-logo mb-30"><img style="height: 80px; max-width: 200px;" src="assets/images/logo/logo-blac.png" alt="Brand Logo"></a>
+                                    <p></p>
                                     <form>
                                         <div class="form_group">
                                             <label><i class="far fa-arrow-right"></i></label>
@@ -163,9 +166,9 @@
                                 <div class="footer-nav-content">
                                     <ul class="footer-nav">
                                         <li><a href="#">About Company</a></li>
-                                        <li><a href="#">Home Shop</a></li>
-                                        <li><a href="#">Our Menu (CMS)</a></li>
-                                        <li><a href="#">Shop (Ecom)</a></li>
+                                        <li><a href="#">Home </a></li>
+                                        <li><a href="#">Contact us</a></li>
+
 
                                     </ul>
                                 </div>
@@ -177,7 +180,7 @@
                                 <div class="contact-info-box mb-20">
                                     <span class="title">Call for order:</span>
                                     <h3><a href="tel:+125865892">+44 2586 5892</a></h3>
-                                    <p><a href="https://webtend.site/cdn-cgi/l/email-protection#7b131e1717143b1e031a160b171e55181416"><span class="__cf_email__" data-cfemail="1f777a7373705f7a677e726f737a317c7072">[email&#160;protected]</span></a></p>
+                                    {{-- <p><a href="https://webtend.site/cdn-cgi/l/email-protection#7b131e1717143b1e031a160b171e55181416"><span class="__cf_email__" data-cfemail="1f777a7373705f7a677e726f737a317c7072">[email&#160;protected]</span></a></p> --}}
                                 </div>
                                 <div class="contact-info-box mb-20">
                                     <span class="title">Location :</span>
@@ -205,7 +208,7 @@
                                 <ul>
                                     <li><a href="#">Setting & Privacy</a></li>
                                     <li><a href="#">Faqs</a></li>
-                                    <li><a href="#">Food Menu</a></li>
+
                                 </ul>
                             </div>
                         </div>
