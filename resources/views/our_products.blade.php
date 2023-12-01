@@ -69,7 +69,7 @@
                                         <li><i class="fas fa-star"></i></li>
                                     </ul>
                                     <h6><a href="product-details.html">Vegetable Hamburger</a></h6>
-                                    <span class="price"><span class="curreny"> £</span>58.63</span>
+                                    {{-- <span class="price"><span class="curreny"> £</span>58.63</span> --}}
                                 </div>
                             </li>
                             <li class="product-item d-flex align-items-center">
@@ -85,7 +85,7 @@
                                         <li><i class="fas fa-star"></i></li>
                                     </ul>
                                     <h6><a href="product-details.html">Italian Chicken Pizza</a></h6>
-                                    <span class="price"><span class="curreny"> £</span>83.25</span>
+                                    {{-- <span class="price"><span class="curreny"> £</span>83.25</span> --}}
                                 </div>
                             </li>
                             <li class="product-item d-flex align-items-center">
@@ -101,7 +101,7 @@
                                         <li><i class="fas fa-star"></i></li>
                                     </ul>
                                     <h6><a href="product-details.html">Crab Seafood sauce</a></h6>
-                                    <span class="price"><span class="curreny"> £</span>83.25</span>
+                                    {{-- <span class="price"><span class="curreny"> £</span>83.25</span> --}}
                                 </div>
                             </li>
                         </ul>
@@ -163,7 +163,7 @@
                                         <li><i class="fas fa-star"></i></li>
                                     </ul>
                                     <h3 class="title"><a href="product-details.html">Chin Chin</a></h3>
-                                    <span class="price"><span class="curreny"> £</span>23.59</span>
+                                    {{-- <span class="price"><span class="curreny"> £</span>23.59</span> --}}
                                 </div>
                             </div>
                         </div>
@@ -171,7 +171,7 @@
                             <div class="single-product-item text-center wow fadeInUp mb-30">
                                 <div class="product-thumbnail">
                                     <img src="assets/images/product/menu-6.png" alt="Product Image">
-                                    <span class="discount">25% Off</span>
+                                    {{-- <span class="discount">25% Off</span> --}}
                                 </div>
                                 <div class="product-info">
                                     <ul class="ratings">
@@ -182,7 +182,7 @@
                                         <li><i class="fas fa-star"></i></li>
                                     </ul>
                                     <h3 class="title"><a href="product-details.html">Coconut chin chin</a></h3>
-                                    <span class="price"><span class="curreny"> £</span>15.53</span>
+                                    {{-- <span class="price"><span class="curreny"> £</span>15.53</span> --}}
                                 </div>
                             </div>
                         </div>
@@ -200,7 +200,7 @@
                                         <li><i class="fas fa-star"></i></li>
                                     </ul>
                                     <h3 class="title"><a href="product-details.html">Chin chin</a></h3>
-                                    <span class="price"><span class="curreny"> £</span>85.59</span>
+                                    {{-- <span class="price"><span class="curreny"> £</span>85.59</span> --}}
                                 </div>
                             </div>
                         </div>
@@ -208,7 +208,7 @@
                             <div class="single-product-item text-center wow fadeInUp mb-30">
                                 <div class="product-thumbnail">
                                     <img src="assets/images/product/menu-6.png" alt="Product Image">
-                                    <span class="discount">25% Off</span>
+                                    {{-- <span class="discount">25% Off</span> --}}
                                 </div>
                                 <div class="product-info">
                                     <ul class="ratings">
@@ -219,7 +219,7 @@
                                         <li><i class="fas fa-star"></i></li>
                                     </ul>
                                     <h3 class="title"><a href="product-details.html">Coconut Chin chin</a></h3>
-                                    <span class="price"><span class="curreny"> £</span>40.59</span>
+                                    {{-- <span class="price"><span class="curreny"> £</span>40.59</span> --}}
                                 </div>
                             </div>
                         </div>

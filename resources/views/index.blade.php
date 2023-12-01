@@ -182,7 +182,7 @@
                         <div class="hover-content">
                             <div class="text">
                                 <h3 class="title"><a href="/our-products">Chin Chin  Original</a></h3>
-                                <span class="price"><span class="currency"> £</span>25.59</span>
+                                {{-- <span class="price"><span class="currency"> £</span>25.59</span> --}}
                                 <div class="menu-meta d-none">
                                     <a href="#" class="icon-btn"><i class="far fa-shopping-cart"></i></a>
                                     <a href="#" class="icon-btn"><i class="far fa-heart"></i></a>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="/our-products">Chin Chin  Original</a></h3>
-                            <span class="price"><span class="currency"> £</span>53.59</span>
+                            {{-- <span class="price"><span class="currency"> £</span>53.59</span> --}}
                         </div>
                     </div>
                     <div class="menu-grid-item-two text-center mb-60">
@@ -204,7 +204,7 @@
                         <div class="hover-content">
                             <div class="text">
                                 <h3 class="title"><a href="/our-products"> Peanut Chin Chin </a></h3>
-                                <span class="price"><span class="currency"> £</span>24.83</span>
+                                {{-- <span class="price"><span class="currency"> £</span>24.83</span> --}}
                                 <div class="menu-meta d-none">
                                     <a href="#" class="icon-btn"><i class="far fa-shopping-cart"></i></a>
                                     <a href="#" class="icon-btn"><i class="far fa-heart"></i></a>
@@ -218,7 +218,7 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="/our-products"> Peanut Chin Chin</a></h3>
-                            <span class="price"><span class="currency"> £</span>24.83</span>
+                            {{-- <span class="price"><span class="currency"> £</span>24.83</span> --}}
                         </div>
                     </div>
 
@@ -228,7 +228,7 @@
                         <div class="hover-content">
                             <div class="text">Jafro Foods
                                 <h3 class="title"><a href="/our-products">Coconut Chin Chin</a></h3>
-                                <span class="price"><span class="currency"> £</span>24.83</span>
+                                {{-- <span class="price"><span class="currency"> £</span>24.83</span> --}}
                                 <div class="menu-meta d-none">
                                     <a href="#" class="icon-btn"><i class="far fa-shopping-cart"></i></a>
                                     <a href="#" class="icon-btn"><i class="far fa-heart"></i></a>
@@ -242,7 +242,7 @@
                         </div>
                         <div class="text">
                             <h3 class="title"><a href="/our-products">Coconut Chin Chin</a></h3>
-                            <span class="price"><span class="currency"> £</span>24.83</span>
+                            {{-- <span class="price"><span class="currency"> £</span>24.83</span> --}}
                         </div>
                     </div>
                 </div>
