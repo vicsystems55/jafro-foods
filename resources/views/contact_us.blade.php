@@ -38,7 +38,7 @@
                                 </div>
                                 <div class="info">
                                     <span class="title">Location</span>
-                                    <p>Jafro foods limited Unit 38c , Globe industrial estate Rectory road grays RM17 6SU</p>
+                                    <p>Jafro foods limited Unit 38c , Globe industrial estate Rectory road grays RM17 6ST</p>
                                 </div>
                             </div>
                         </div>

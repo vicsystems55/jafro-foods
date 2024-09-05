@@ -132,7 +132,7 @@
                                     <div class="search-btn" data-bs-toggle="modal" data-bs-target="#search-modal"><i class="far fa-search"></i></div>
                                 </div>
                                 <div class="nav-call-button">
-                                    <span><img src="assets/images/call.png" alt="icon"><a href="tel:000(123)45689">+44 (123) 456 89</a></span>
+                                    <span><img src="assets/images/call.png" alt="icon"><a href="tel:+447838131031">+44 78 3813 1031</a></span>
                                 </div>
                                 <div class="menu-button d-xl-block d-none">
                                     <a href="/contact-us" class="main-btn btn-red">Order Now<i class="fas fa-long-arrow-right"></i></a>
@@ -188,7 +188,7 @@
                             <div class="footer-widget contact-info-widget pl-lg-70 mb-40 wow fadeInDown">
                                 <div class="contact-info-box mb-20">
                                     <span class="title">Call for order:</span>
-                                    <h3><a href="tel:+125865892">+44 2586 5892</a></h3>
+                                    <h3><a href="tel:+44 78 3813 1031">+44 78 3813 1031</a></h3>
                                     {{-- <p><a href="https://webtend.site/cdn-cgi/l/email-protection#7b131e1717143b1e031a160b171e55181416"><span class="__cf_email__" data-cfemail="1f777a7373705f7a677e726f737a317c7072">[email&#160;protected]</span></a></p> --}}
                                 </div>
                                 <div class="contact-info-box mb-20">
@@ -196,7 +196,7 @@
                                     <p>Jafro foods limited
                                         Unit 38c , Globe industrial estate
                                         Rectory road grays
-                                        RM17 6SU</p>
+                                        RM17 6ST</p>
                                 </div>
                             </div>
                         </div>
